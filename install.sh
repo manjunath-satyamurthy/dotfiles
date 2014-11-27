@@ -16,6 +16,6 @@ echo "Make sure you have added this machine's ssh public key to your GitHub accc
 # I guess pretty much everything else is self-explantory
 mkdir -p ~/Projects
 rm -rf ~/Projects/dotfiles
-git clone --recursive git@github.com:dhilipsiva/dotfiles.git ~/Projects/dotfiles
+git clone --recursive git@github.com:manjunath-satyamurthy/dotfiles.git ~/Projects/dotfiles
 cd ~/Projects/dotfiles
 ./copy.sh
