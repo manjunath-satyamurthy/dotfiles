@@ -1,9 +1,6 @@
 [user]
-    name = dhilipsiva
-    email = dhilipsiva@gmail.com
-
-[credential]
-    helper = osxkeychain
+    name = Manjunath
+    email = pass2rahul@gmail.com
 
 [branch]
     autosetuprebase = always
